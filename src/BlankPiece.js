@@ -4,7 +4,7 @@ import './App.css'
 class BlankPiece extends Component {
     render() {
         return(
-            <div>**Blank**</div>
+            <div>Hello</div>
         );
     }
 }
